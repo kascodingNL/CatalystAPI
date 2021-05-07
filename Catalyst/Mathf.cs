@@ -24,6 +24,7 @@ namespace Catalyst
 
         #pragma warning disable 1591
 
+        public const float HALFPI = 1.57079633f;
         public const float PI = 3.14159265359f;
         public const float PI2 = 6.28318530718f;
 
