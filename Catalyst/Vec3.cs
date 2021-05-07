@@ -15,17 +15,9 @@ namespace Catalyst
     public struct Vec3
     {
         /// <summary>
-        /// The X component.
+        /// The X,Y and Z component.
         /// </summary>
-        public readonly float x;
-        /// <summary>
-        /// The Y component.
-        /// </summary>
-        public readonly float y;
-        /// <summary>
-        /// The Z component.
-        /// </summary>
-        public readonly float z;
+        public readonly float x, y, z;
 
         /// <summary>
         /// The zero vector.
